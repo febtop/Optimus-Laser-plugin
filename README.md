@@ -1,2 +1,1 @@
-# FebTopCAD
-Latest version of FebTopCAD mobile control app for the Optimus
+# Laser cutting and engraving pluin for OPTIMUS
